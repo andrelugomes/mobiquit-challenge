@@ -1,4 +1,4 @@
-# Kanpsak Challenge
+# Knapsack Challenge
 
 This is a Knapsack problem [https://en.wikipedia.org/wiki/Knapsack_problem]() that we have to determine the bigger 
 packages quantity inside a bag, reaching the bigger weight and cost.
